@@ -22,9 +22,9 @@
     margin: 0;}
   
   .navbar {
-    background-color: rgb(0, 0, 40, 0.8) !important; 
+    background-color: rgb(20, 92, 88) !important; 
     border-bottom-style: groove; 
-    border-bottom-color: rgb(0, 8, 90);}
+    border-bottom-color: rgb(75, 255, 4);}
   
   .navbar-brand {
     font-size: 17px;}
@@ -41,7 +41,7 @@
     background-position: bottom center;
     background-size: cover;
     border-bottom-style: groove; 
-    border-bottom-color: rgb(0, 8, 90, 0.7);}
+    border-bottom-color: rgb(75, 255, 4);}
   
   .hero h1 {
     margin-top: 150px;
@@ -70,7 +70,7 @@
     
   table {
     border-style: groove;
-    border-color: rgb(0, 8, 90);
+    border-color: rgb(75, 255, 4);
     background-color: rgb(0, 0, 60, 0.5);
     background-image: url("../images/stars.jpg");
     background-blend-mode: luminosity;
@@ -101,7 +101,7 @@
     
   #box-filter {
     border-style: groove;
-    border-color: rgb(0, 8, 90);}
+    border-color: rgb(75, 255, 4);}
   
   .btn {
     background-color: rgb(0, 0, 35);}
@@ -137,7 +137,7 @@
     font-weight: bolder;
     text-align: center;
     background-color: rgb(0, 0, 43, 0.6) !important;
-    border-color: rgb(0, 8, 90);
+    border-color: rgb(75, 255, 4);
     background-image: url("../images/stars.jpg");
     background-blend-mode: luminosity;}
   
@@ -182,7 +182,7 @@
     left: 0;
     padding: 8px;
     border-style: groove; 
-    border-color: rgb(0, 8, 90);
+    border-color: rgb(75, 255, 4);
     background-color: rgb(0, 5, 20, 0.9);
   }
 
